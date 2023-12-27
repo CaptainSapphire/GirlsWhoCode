@@ -1,4 +1,4 @@
-#Programming Caesar's Cipher
+# Programming Caesar's Cipher
 ### Project Requirements
 Your project should:
 - Share an opening message with the user that describes what the program will do.
