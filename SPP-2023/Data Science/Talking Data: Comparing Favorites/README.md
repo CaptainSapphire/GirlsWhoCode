@@ -2,7 +2,7 @@
 This was the introduction to the Data Science and introduction. I enjoyed it and it was fun to research Mission Impossible.
 
 ### Project Requirements
-pProject should:
+Project should:
 - Use a variable to store and print the data of your favorite movie.
 - Use .loc to filter the data set to a genre, and store it in a new variable.
 - Calculate the min, max, mean, and median of a column.
